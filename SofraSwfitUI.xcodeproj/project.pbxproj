@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B4ADA5C2AA98EFB0042E1DF /* SoupDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B4ADA5B2AA98EFB0042E1DF /* SoupDetailView.swift */; };
 		7B5F32A02AA844A700ACB596 /* SofraSwfitUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B5F329F2AA844A700ACB596 /* SofraSwfitUIApp.swift */; };
 		7B5F32A22AA844A700ACB596 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B5F32A12AA844A700ACB596 /* ContentView.swift */; };
 		7B5F32A42AA844A700ACB596 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B5F32A32AA844A700ACB596 /* Assets.xcassets */; };
 		7B5F32A72AA844A700ACB596 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B5F32A62AA844A700ACB596 /* Preview Assets.xcassets */; };
+		7B5F32AE2AA848AD00ACB596 /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B5F32AD2AA848AD00ACB596 /* PlayfairDisplay-Bold.ttf */; };
+		7B5F32B02AA848CB00ACB596 /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B5F32AF2AA848CA00ACB596 /* PlayfairDisplay-Regular.ttf */; };
+		7B5F32B22AA85D0E00ACB596 /* PlayfairDisplay-Italic-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B5F32B12AA85D0E00ACB596 /* PlayfairDisplay-Italic-VariableFont_wght.ttf */; };
+		7B5F32B42AA85D1900ACB596 /* PlayfairDisplay-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B5F32B32AA85D1900ACB596 /* PlayfairDisplay-VariableFont_wght.ttf */; };
+		7B5F32BA2AA8A3AC00ACB596 /* SoupListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B5F32B92AA8A3AC00ACB596 /* SoupListView.swift */; };
+		7B5F32BD2AA8CE2B00ACB596 /* SoupDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B5F32BC2AA8CE2B00ACB596 /* SoupDetailModel.swift */; };
+		7B9C45FD2AAC466300BB712D /* KebapDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9C45FC2AAC466300BB712D /* KebapDetailModel.swift */; };
+		7B9C45FF2AAC52F900BB712D /* KebapListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9C45FE2AAC52F900BB712D /* KebapListView.swift */; };
+		7B9C46012AAC601100BB712D /* KebapDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9C46002AAC601100BB712D /* KebapDetailView.swift */; };
+		7BFE883A2AACACC300D22AAB /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFE88392AACACC300D22AAB /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B4ADA5B2AA98EFB0042E1DF /* SoupDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoupDetailView.swift; sourceTree = "<group>"; };
 		7B5F329C2AA844A700ACB596 /* SofraSwfitUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SofraSwfitUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B5F329F2AA844A700ACB596 /* SofraSwfitUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SofraSwfitUIApp.swift; sourceTree = "<group>"; };
 		7B5F32A12AA844A700ACB596 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7B5F32A32AA844A700ACB596 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B5F32A62AA844A700ACB596 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7B5F32AD2AA848AD00ACB596 /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; };
+		7B5F32AF2AA848CA00ACB596 /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; };
+		7B5F32B12AA85D0E00ACB596 /* PlayfairDisplay-Italic-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Italic-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		7B5F32B32AA85D1900ACB596 /* PlayfairDisplay-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		7B5F32B92AA8A3AC00ACB596 /* SoupListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoupListView.swift; sourceTree = "<group>"; };
+		7B5F32BC2AA8CE2B00ACB596 /* SoupDetailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoupDetailModel.swift; sourceTree = "<group>"; };
+		7B9C45FC2AAC466300BB712D /* KebapDetailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KebapDetailModel.swift; sourceTree = "<group>"; };
+		7B9C45FE2AAC52F900BB712D /* KebapListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KebapListView.swift; sourceTree = "<group>"; };
+		7B9C46002AAC601100BB712D /* KebapDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KebapDetailView.swift; sourceTree = "<group>"; };
+		7BFE88392AACACC300D22AAB /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +54,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7B4ADA5A2AA98E5D0042E1DF /* DetailsView */ = {
+			isa = PBXGroup;
+			children = (
+				7B4ADA5B2AA98EFB0042E1DF /* SoupDetailView.swift */,
+				7B9C46002AAC601100BB712D /* KebapDetailView.swift */,
+			);
+			path = DetailsView;
+			sourceTree = "<group>";
+		};
 		7B5F32932AA844A600ACB596 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +82,16 @@
 		7B5F329E2AA844A700ACB596 /* SofraSwfitUI */ = {
 			isa = PBXGroup;
 			children = (
+				7BFE88372AACAC8900D22AAB /* NavigationBarViews */,
+				7B4ADA5A2AA98E5D0042E1DF /* DetailsView */,
+				7B5F32BB2AA8CDD300ACB596 /* Model */,
+				7B5F32B62AA88A1700ACB596 /* ScrollDetailsView */,
+				7B5F32AD2AA848AD00ACB596 /* PlayfairDisplay-Bold.ttf */,
+				7B5F32AF2AA848CA00ACB596 /* PlayfairDisplay-Regular.ttf */,
 				7B5F329F2AA844A700ACB596 /* SofraSwfitUIApp.swift */,
 				7B5F32A12AA844A700ACB596 /* ContentView.swift */,
+				7B5F32B32AA85D1900ACB596 /* PlayfairDisplay-VariableFont_wght.ttf */,
+				7B5F32B12AA85D0E00ACB596 /* PlayfairDisplay-Italic-VariableFont_wght.ttf */,
 				7B5F32A32AA844A700ACB596 /* Assets.xcassets */,
 				7B5F32A52AA844A700ACB596 /* Preview Content */,
 			);
@@ -65,6 +104,32 @@
 				7B5F32A62AA844A700ACB596 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7B5F32B62AA88A1700ACB596 /* ScrollDetailsView */ = {
+			isa = PBXGroup;
+			children = (
+				7B5F32B92AA8A3AC00ACB596 /* SoupListView.swift */,
+				7B9C45FE2AAC52F900BB712D /* KebapListView.swift */,
+			);
+			path = ScrollDetailsView;
+			sourceTree = "<group>";
+		};
+		7B5F32BB2AA8CDD300ACB596 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7B5F32BC2AA8CE2B00ACB596 /* SoupDetailModel.swift */,
+				7B9C45FC2AAC466300BB712D /* KebapDetailModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		7BFE88372AACAC8900D22AAB /* NavigationBarViews */ = {
+			isa = PBXGroup;
+			children = (
+				7BFE88392AACACC300D22AAB /* User.swift */,
+			);
+			path = NavigationBarViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +190,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B5F32B02AA848CB00ACB596 /* PlayfairDisplay-Regular.ttf in Resources */,
+				7B5F32B22AA85D0E00ACB596 /* PlayfairDisplay-Italic-VariableFont_wght.ttf in Resources */,
+				7B5F32AE2AA848AD00ACB596 /* PlayfairDisplay-Bold.ttf in Resources */,
 				7B5F32A72AA844A700ACB596 /* Preview Assets.xcassets in Resources */,
+				7B5F32B42AA85D1900ACB596 /* PlayfairDisplay-VariableFont_wght.ttf in Resources */,
 				7B5F32A42AA844A700ACB596 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +206,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B4ADA5C2AA98EFB0042E1DF /* SoupDetailView.swift in Sources */,
+				7B9C46012AAC601100BB712D /* KebapDetailView.swift in Sources */,
 				7B5F32A22AA844A700ACB596 /* ContentView.swift in Sources */,
+				7B5F32BA2AA8A3AC00ACB596 /* SoupListView.swift in Sources */,
 				7B5F32A02AA844A700ACB596 /* SofraSwfitUIApp.swift in Sources */,
+				7BFE883A2AACACC300D22AAB /* User.swift in Sources */,
+				7B9C45FD2AAC466300BB712D /* KebapDetailModel.swift in Sources */,
+				7B9C45FF2AAC52F900BB712D /* KebapListView.swift in Sources */,
+				7B5F32BD2AA8CE2B00ACB596 /* SoupDetailModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
